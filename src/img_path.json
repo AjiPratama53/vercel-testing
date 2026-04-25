@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Boyolali",
+        "path": "./src/img/DSC00002.JPG",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam placeat fugiat perferendis fugit officiis aliquid hic quia voluptas, doloribus sed modi dolore facere repudiandae maiores libero illum esse atque obcaecati."
+    },
+    {
+        "title": "Merapi",
+        "path": "./src/img/DSC01585.JPG",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam placeat fugiat perferendis fugit officiis aliquid hic quia voluptas, doloribus sed modi dolore facere repudiandae maiores libero illum esse atque obcaecati."
+    },
+    {
+        "title": "Breksi",
+        "path": "./src/img/DSC01588.JPG",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam placeat fugiat perferendis fugit officiis aliquid hic quia voluptas, doloribus sed modi dolore facere repudiandae maiores libero illum esse atque obcaecati."
+    },
+    {
+        "title": "Cepogo - Selo",
+        "path": "./src/img/DSC09997.JPG",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam placeat fugiat perferendis fugit officiis aliquid hic quia voluptas, doloribus sed modi dolore facere repudiandae maiores libero illum esse atque obcaecati."
+    }
+]
