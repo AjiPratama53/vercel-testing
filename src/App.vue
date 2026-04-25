@@ -1,6 +1,6 @@
 <script>
     import img from './img_path.json';
-    import Card from './components/Card.vue';
+    // import Card from './components/Card.vue';
     
     export default {
         data(){
@@ -27,12 +27,12 @@
     </header>
     <main>
         <div class="container">
-            <Card v-for="image in images" :key="image.id"  ></Card>
-            <!-- <div class="card" v-for="image in images" :key="image.id">
+            <!-- <Card v-for="image in images" :key="image.id"  ></Card> -->
+            <div class="card" v-for="image in images" :key="image.id">
                 <img :src="image.path" :alt="image.title">
                 <h2>{{ image.title }}</h2>
                 <p>{{ image.description }}</p>
-            </div> -->
+            </div>
             
         </div>
     </main>
